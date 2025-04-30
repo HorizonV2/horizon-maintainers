@@ -1,36 +1,28 @@
 # HorizonDroid official devices
 
 ## <p align="center"> Xiaomi <p/>
-- Mi 12 Lite ( Taoyao )
+- Mi 9T ( Davinci )
+- Mi 11x Pro ( Hadyn )
 - Mi 10t / pro ( Apollo )
 
 ## <p align="center"> Redmi <p/>
-- Redmi 5 Plus ( Vince )
 - Redmi Note 8 ( Ginkgo )
-- Redmi 9 ( Lancelot )
-- Redmi Note 9 ( Merlinx )
-- Redmi Note 10 ( Mojito )
-- Redmi Note 10S ( Rosemary)
-- Redmi Note 10 Pro ( sweet )
-- Redmi Note 12 4G NFC ( topaz )
+- Redmi Note 9 Pro ( Miatoll )
+- Redmi note 11/NFC ( Spes/n )
+- Redmi Note 10 Pro ( Sweet )
+- Redmi Note 12 4G NFC ( Topaz )
+- Redmi Note 13 Pro 5G ( Garnet )
 
 ## <p align="center"> POCO <p/>
 - Poco F1 ( Beryllium )
-- Poco F3/Mi 11x/Redmi K40 ( Alioth )
-- Poco F5 (marble)
-- Poco X5 5G/Redmi Note 12 5G ( Stone )
-- Poco M4 Pro 5G/Redmi Note 11T 5G/Redmi Note 11S 5G ( Everpal )
+- Poco F5 ( Marble )
+- Poco F6 ( Peridot )
+- Poco F7 ( Onyx ) (soon)
 
-## <p align="center"> Asus <p/>
-- Asus Zenfone Max M2 ( X01AD )
+## <p align="center"> XiaomiPad <p/>
+XiaomiPad
+- Xiaomi Pad 6 ( Pipa )
 
-## <p align="center"> Realme <p/>
-- Realme GT Neo 3T ( Spartan )
-
-## <p align="center"> Motorola <p/>
-- Motorola G32 ( Devon )
-- Motorola G42 ( Hawao )
-- Motorola G52 ( Rhode )
-
-- ## <p align="center"> Lenovo <p/>
-- Lenovo Z6 Pro ( Zippo )
+## <p align="center"> OnePlus <p/>
+OnePlus
+- OnePlus 6 ( Enchilada )
